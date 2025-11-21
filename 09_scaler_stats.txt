@@ -1,0 +1,112 @@
+Scaled numeric columns:
+Umur
+Pendapatan
+JumlahPinjaman
+Nama Nasabah_Arif
+Nama Nasabah_Ayu
+Nama Nasabah_Budi
+Nama Nasabah_Dewi
+Nama Nasabah_Fajar
+Nama Nasabah_Fajru
+Nama Nasabah_Firman
+Nama Nasabah_Fitri
+Nama Nasabah_Joko
+Nama Nasabah_Juko
+Nama Nasabah_Lina
+Nama Nasabah_Linda
+Nama Nasabah_Lula
+Nama Nasabah_Rina_10
+Nama Nasabah_Rio
+Nama Nasabah_Rudi
+Nama Nasabah_Sari
+Nama Nasabah_Siti
+Nama Nasabah_Yudi
+Nama Nasabah_abi
+Nama Nasabah_almi
+Nama Nasabah_aman
+Nama Nasabah_amma
+Nama Nasabah_ammu
+Nama Nasabah_anila
+Nama Nasabah_anisa
+Nama Nasabah_anita
+Nama Nasabah_aqila
+Nama Nasabah_araf
+Nama Nasabah_arif
+Nama Nasabah_armi
+Nama Nasabah_asa
+Nama Nasabah_awwa
+Nama Nasabah_bidna
+Nama Nasabah_budi
+Nama Nasabah_caca
+Nama Nasabah_ceca
+Nama Nasabah_cicha
+Nama Nasabah_cimma
+Nama Nasabah_cimmi
+Nama Nasabah_cisa
+Nama Nasabah_dadi
+Nama Nasabah_dirga
+Nama Nasabah_diru
+Nama Nasabah_dodo
+Nama Nasabah_doni
+Nama Nasabah_dwi
+Nama Nasabah_fahmi
+Nama Nasabah_fahtur
+Nama Nasabah_fitri
+Nama Nasabah_fitya
+Nama Nasabah_gus
+Nama Nasabah_ica
+Nama Nasabah_ima
+Nama Nasabah_isna
+Nama Nasabah_kasah
+Nama Nasabah_kasmun
+Nama Nasabah_lana
+Nama Nasabah_lisa
+Nama Nasabah_lulu
+Nama Nasabah_luna
+Nama Nasabah_mega
+Nama Nasabah_nani
+Nama Nasabah_nuni
+Nama Nasabah_orim
+Nama Nasabah_pina
+Nama Nasabah_pipit
+Nama Nasabah_pirga
+Nama Nasabah_puput
+Nama Nasabah_putna
+Nama Nasabah_putra
+Nama Nasabah_rash
+Nama Nasabah_ridman
+Nama Nasabah_rio
+Nama Nasabah_rudiman
+Nama Nasabah_rusman
+Nama Nasabah_salni
+Nama Nasabah_sarah
+Nama Nasabah_sari
+Nama Nasabah_sarni
+Nama Nasabah_sera
+Nama Nasabah_sila
+Nama Nasabah_susi
+Nama Nasabah_suson
+Nama Nasabah_tina
+Nama Nasabah_tini
+Nama Nasabah_tono
+Nama Nasabah_wandi
+Nama Nasabah_wuwull
+Nama Nasabah_yayah
+Nama Nasabah_yudha
+Nama Nasabah_yudus
+Nama Nasabah_yul
+Pekerjaan_Karyawan Swasta
+Pekerjaan_Pegawai Negeri
+Pekerjaan_Pelajar
+Pekerjaan_Profesional
+Pekerjaan_Wirausaha
+Status Pernikahan_Lajang
+Status Pernikahan_Menikah
+TujuanKredit_Liburan
+TujuanKredit_Modal Usaha
+TujuanKredit_Pembelian Kendaraan
+TujuanKredit_Pendidikan
+TujuanKredit_Renovasi Rumah
+
+Scaler mean_ and scale_ (first 20):
+{'Umur': (37.3375, 10.712077004484238), 'Pendapatan': (11.466249999999999, 4.861479809430458), 'JumlahPinjaman': (54.44500000000001, 25.067762664426198), 'Nama Nasabah_Arif': (0.025, 0.15612494995995996), 'Nama Nasabah_Ayu': (0.0, 1.0), 'Nama Nasabah_Budi': (0.0, 1.0), 'Nama Nasabah_Dewi': (0.0125, 0.11110243021644485), 'Nama Nasabah_Fajar': (0.025, 0.15612494995995996), 'Nama Nasabah_Fajru': (0.0125, 0.11110243021644486), 'Nama Nasabah_Firman': (0.0125, 0.11110243021644485), 'Nama Nasabah_Fitri': (0.0, 1.0), 'Nama Nasabah_Joko': (0.0125, 0.11110243021644486), 'Nama Nasabah_Juko': (0.0125, 0.11110243021644485), 'Nama Nasabah_Lina': (0.0125, 0.11110243021644486), 'Nama Nasabah_Linda': (0.0125, 0.11110243021644486), 'Nama Nasabah_Lula': (0.0125, 0.11110243021644485), 'Nama Nasabah_Rina_10': (0.0125, 0.11110243021644485), 'Nama Nasabah_Rio': (0.0125, 0.11110243021644485), 'Nama Nasabah_Rudi': (0.0125, 0.11110243021644485), 'Nama Nasabah_Sari': (0.025, 0.15612494995995996)}
